@@ -1,0 +1,141 @@
+.list-items {
+    list-style: none;
+    display: flex;
+}
+
+.list-item {
+    margin-left: 5px;
+}
+
+.top-side {
+    display:flex;
+}
+
+.date-box {
+    align-self: center;
+    margin-left: 10px;
+    font-size: 11px;
+}
+
+.news-item {
+    display: flex;
+    margin-top: 5px;
+}
+
+.img-news {
+    width: 14px;
+    height: 14px;
+    margin-top: 5px;
+}
+
+.smi {
+    width: 600px;
+    margin-left: 30px;
+}
+
+.contentNews {
+    margin-left: 5px;
+}
+
+.exr-box {
+    display: flex;
+}
+
+.rates-container {
+    display: flex;
+}
+
+.rates {
+    margin-left: 5px;
+}
+
+.difference {
+    margin-left: 5px; 
+}
+
+.rates-container:nth-child(n + 2) {
+    margin-left: 5px;
+}
+
+.market-img {
+    width: 100px;
+    height: 100px;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+.market {
+    margin-left: 30px;
+}
+
+.search-logo {
+    width: 124px;
+    height: 60px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.input-box {
+    display:flex;
+}
+
+.search-input {
+    height: 24px;
+    align-self: center;
+    width: 600px;
+}
+
+.search-button {
+    height: 24px;
+    align-self: center;
+}
+
+.under-input {
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+    line-height: 0;
+}
+
+.banner-img {
+    width: 600px;
+    height: 60px;
+}
+
+.weather-item {
+    display: flex;
+    align-items: center;
+}
+
+.weather-img {
+    width: 40px;
+    height: 40px;
+}
+
+section {
+    display: flex;
+}
+
+.tv-show {
+    display: flex;
+}
+
+.box {
+    margin-left: 10px;
+}
+
+.ethir {
+    display: flex;
+    justify-content: space-around;
+}
+
+.title {
+    font-weight: 600;
+}
